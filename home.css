@@ -1,0 +1,77 @@
+.backimg{
+    background-image: url("pexels-dan-prado-141463-428111 - Copy (2).jpg");
+    height: 700px;
+    background-size: cover;
+    font-size: 4rem;
+    color: white;
+    align-content: center;
+    text-align: center;
+    text-indent: 2%;
+    text-shadow: 3px 3px #652d47;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.box1{
+    display: flex;
+    justify-content:space-around;
+    height: 270px;
+    width: 90%;
+    margin-left: 3%;
+    margin-top: 2%;
+    font-size: 28px;
+    color:#652d47;
+    text-align:justify;
+}
+.line1{
+    width: 350px;
+    height: 600px;
+    font-size: 2.6rem;
+    font-weight: bold;
+    color:#652d47;
+    border: 3px solid #652d47;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    padding-left: 3rem;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    text-align: center;
+    padding-right: 3rem;
+}
+#b2l1{
+    font-size: 2.3rem;
+    color: #800f2f;
+}
+/* footer */
+.footer{
+    margin-top:.2%;
+    height:35%;
+    padding-top:30%;
+    padding-left: 2%;
+    height:300px;
+    padding-bottom: none;
+    margin-bottom: 0%;
+}
+.footer p{
+    color: #652d47;
+    font-size: 1.5rem;
+    padding-top: none;
+    align-items: baseline;
+}
+h3{
+    padding-left:3rem ;
+    padding-top:30%;
+    font-size: 3.8rem;
+    color:#652d47;
+    font-weight:600;
+}
+.contact{
+    padding-top: 0%;
+    font-size: 1.5rem;
+    color:#652d47;
+    justify-content: space-evenly;
+    background-color:#C39898;
+    background-size:100% 600px;
+}
