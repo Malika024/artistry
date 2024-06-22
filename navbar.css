@@ -1,0 +1,42 @@
+.navbar{
+    display: flex;
+    height: 100px;
+    width: 100%;
+    background-color:#C39898;
+    color:#8E3E63;
+    display: flex;
+    justify-content: space-between;
+    margin-top: none;
+    margin-bottom: 1.1%;
+    font-size: 100px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.navmiddle{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    font-size: 1.5rem;
+    color: #75103f;
+    text-shadow: 1px 1px white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.logo{
+    color:#8E3E63;
+    text-shadow: 3px 3px white;
+    align-content:center ;
+    font-size: 5rem;
+    margin-left: 2%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.border{
+    border: 2.5px solid transparent;
+}
+.border:hover{
+    border: 1.5px solid #800f2f;
+}
+.home,.painting,.contact,.logo,.login{
+    text-decoration: none;
+    color:#8E3E63;
+    align-content: center;
+    justify-content: space-between;
+}
